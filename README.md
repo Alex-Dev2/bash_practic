@@ -1,4 +1,4 @@
-#Script with input data - set  params for creating differnet quantity and names for folders and files.
+#Script Linux with input data - set  params for creating differnet quantity and names for folders and files.
 
 #Скрипт для Linux создает указанное количество папок, опускается в них создает дочерние папки, и генерирует в каждую пустые файлы
 
